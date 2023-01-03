@@ -1,4 +1,4 @@
-*/Windows 10 version and OS Build WQL!/* 
+/*Windows 10 version and OS Build WQL!*/
 
 select v_R_System.Name0 as 'Hostname',
 v_R_System.User_Name0 as 'Username',
